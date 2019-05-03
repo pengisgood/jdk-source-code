@@ -1,0 +1,7 @@
+*.html
+*.js
+*.css
+package-list
+.idea/
+java/
+index-files/
